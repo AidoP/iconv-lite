@@ -10,6 +10,7 @@ var modules = [
     require("./sbcs-codec"),
     require("./sbcs-data"),
     require("./sbcs-data-generated"),
+    require("./sbcs-ucm-data-generated"),
     require("./dbcs-codec"),
     require("./dbcs-data"),
 ];
